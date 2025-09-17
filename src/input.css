@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Bebas Neue Cyrillic";
+    src: url("../public/font/bebasneuecyrillic.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@theme {
+    --font-bebas: "Bebas Neue Cyrillic", sans-serif;
+    --font-martian: "Martian Mono", monospace;
+}
